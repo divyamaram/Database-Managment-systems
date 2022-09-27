@@ -1,0 +1,11 @@
+Branch_name,Branch_Address,IFSC_code,Start_Date,End_Date,Emp_First_Name,Emp_Last_Name,Emp_Designation,previleges_granted
+peoria,"3132,mercer street,peoria IL 61614",SBI0098767,1/1/2015,1/1/2035,Murphy,Diane,Manager,loan santion
+peoria,"3132,mercer street,peoria IL 61614",SBI0098767,1/1/2015,1/1/2035,Murphy,Diane,Manager,Accounting Opening
+bloomington,"2435,pwky,bloomington,IL 61615",SBI0098768,30/06/2017,2/2/2025,Patterson,Mary,General Manager,Managing departments
+bloomington,"2435,pwky,bloomington,IL 61615",SBI0098768,30/06/2017,2/2/2025,Patterson,Mary,General Manager,Loan Approval
+bloomington,"2435,pwky,bloomington,IL 61615",SBI0098768,30/06/2017,2/2/2025,Patterson,Mary,General Manager,Dmat account approval
+springfield,"333,santa rosa, Springfield, CA 1234",SBI0098769,30/06/2018,1/3/2045,Firelli,jeff,Deputy General Manger,Loan Approval
+springfield,"333,santa rosa, Springfield, CA 1234",SBI0098769,3/10/2018,10/3/2050,Ivanka,trump,Deputy General Manger,Loan Approval
+Gardent city,"23,gardent city, NY 3456",SBI0098770,30/06/2019,1/4/2055,harika,kin,clerk,Accounting Opening
+Gardent city,"23,gardent city, NY 3456",SBI0098770,30/06/2019,1/4/2055,harika,kin,clerk,handling techncial issues
+Austin,"1-99,austin,texas 33221",SBI0098771,30/06/2020,1/5/2045,kilbill,pandey,Assistant Manager,Managing fixed deposit

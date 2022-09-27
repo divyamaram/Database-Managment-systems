@@ -1,0 +1,16 @@
+First_Name,Last_Name,Date_of_birth,Gender,Phone_number,SSN,Email,Address,Branch_name,Acc_number,Account_type_code,Minimum_balance,Account_balance,Date_Opened,Account_type_desc
+kim,smith,3/6/1994,F,3098572345,439900208,kim.smith@gmail.com,"1757 Spadafore Drive
+Erie, PA 16501",peoria,35040446,CHK,100,3489,01/01/2019,Checking account
+kim,smith,3/6/1994,F,3098572345,439900208,kim.smith@gmail.com,"1757 Spadafore Drive
+Erie, PA 16501",peoria,35040447,SAV,500,4890,01/01/2019,Savings account
+Jhon,smith,2/12/1980,M,2144689087,463550626,jhon.smith@gmail.com,"35 Whispering Pines Circle
+Farmers Branch, TX 75234",bloomington,10479855,SAV,50,2356,05/01/2013,savings account
+Ivanka,Trump,2/12/1980,F,3076589987,463152222,ivanka.trump@gmail.com,"101 grand drive, washington,DC 10234",springfield,65345677,SAV,1000,5000,05/01/2013,savings account
+shannon,bill,2/5/1997,F,8012927135,519815649,shannon.bill@gmail.com,"2366 Olen Thomas Drive
+Wichita Falls, TX 76301",springfield,53630620,RES,50,3452,01/11/2011,reserve account
+shannon,park,12/5/1988,F,7853371645,500918777,shannon.park@gmail.com,"4900   hickory ridge aprtments
+Wichita Falls, TX 76301",gardent city,67578785,CUR,0,2000,11/11/2021,current account
+bill,gates,22/07/1999,M,5632206786,221163365,bill.gates@gmail.com,"1397 Oak Ridge Drive
+Sikeston, MO 63801",austin,96162490,CUR,0,5000,03/11/2002,current account
+Ambani,mukesh,2/2/1991,M,7815512941,662073882,ambani.mukesh@gmail.com,"4703 Charack Road
+Terre Haute, IN 47807",austin,98261282,CHK,200,2500,01/01/2017,checking account

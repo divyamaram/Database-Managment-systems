@@ -1,0 +1,9 @@
+Acc_number,Transaction_type_code,Transaction_date,Transaction_type_desc,Card_number,Maximum_limit,Expiry_Date,Credit_score,Transaction_Amount,Merchant_details
+35040446,CR,1/20/2021 12:10:34,Credit card transaction,3473789223143251,10000,02/12/2026,500,5000,Amazon
+35040446,CR,3/28/2021 11:10:34,Credit card transaction,3473789223143251,10000,02/12/2026,500,400,Amazon
+10479855,DE,1/12/2020 2:20:45,Debit card transcation,6253789223143254,0,02/11/2026,200,150,Pharmacy
+10479855,DE,1/12/2020 5:36:54,Debit card transcation,6253789223143254,0,02/11/2026,200,150,Costo
+35040447,OL,10/28/2021 7:15:40,online transaction,9852789223143256,0,11/03/2023,650,100,Best buy
+65345677,CR,8/8/2021 6:54:12,Credit card transaction,6595777102279941,2000,12/12/2026,700,280,Wallmart
+53630620,OL,1/11/2021 9:10:34,online transaction,5575199081182796,0,06/04/2025,750,650,Sephora
+53630620,DE,3/11/2021 3:08:24,Debit card transcation,5575199081183647,0,07/09/2030,750,380,Ross
